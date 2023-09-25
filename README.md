@@ -1,1 +1,22 @@
-# CelebratiesFacts
+# Celebrities
+
+- [Johnny Depp is deathly afraid of clowns.](https://thefactbase.com/johnny-depp-is-deathly-afraid-of-clowns)
+- [Having grown up in a religious home, Andy Warhol went to church every Sunday, often meeting his mother and then going directly to church from his night out.](https://thefactbase.com/having-grown-up-in-a-religious-home-andy-warhol-went-to-church-every-sunday-often-meeting-his-mother-and-then-going-directly-to-church-from-his-night-out)
+- [Tom Hanks is related to Abraham Lincoln.](https://thefactbase.com/tom-hanks-is-related-to-abraham-lincoln)
+- [Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark.](https://thefactbase.com/fictional-horror-writer-stephen-king-sleeps-with-a-nearby-light-on-to-calm-his-fear-of-the-dark)
+- [Harry Styles very nearly didn't make his X Factor audition because he was hospitalised after coughing up blood.](https://thefactbase.com/harry-styles-very-nearly-didn-t-make-his-x-factor-audition-because-he-was-hospitalised-after-coughing-up-blood)
+- [In high school, classmates thought Dwayne 'The Rock' Johnson was an undercover cop because he was 6'4" and 225.](https://thefactbase.com/in-high-school-classmates-thought-dwayne-the-rock-johnson-was-an-undercover-cop-because-he-was-6-4-and-225)
+- [In 1933, Mickey Mouse, the animated cartoon character, received 800,000 fan letters. More than any other star in Hollywood.](https://thefactbase.com/in-1933-mickey-mouse-the-animated-cartoon-character-received-800-000-fan-letters-more-than-any-other-star-in-hollywood)
+- [Betty White is literally older than sliced bread.](https://thefactbase.com/betty-white-is-literally-older-than-sliced-bread)
+- [Elvis was found dead on his bathroom floor by his girlfriend Ginger Alden.](https://thefactbase.com/elvis-was-found-dead-on-his-bathroom-floor-by-his-girlfriend-ginger-alden)
+- [Brad Pitt was banned from entering China for almost two decades due to his role in the film Seven Years in Tibet.](https://thefactbase.com/brad-pitt-was-banned-from-entering-china-for-almost-two-decades-due-to-his-role-in-the-film-seven-years-in-tibet)
+- [Barbie's full name is Barbara Millicent Roberts.](https://thefactbase.com/barbie-s-full-name-is-barbara-millicent-roberts)
+- [The actors on "The Wold of Wall Street" snorted crushed B vitamins for scenes that involved cocaine. Jonah Hill claimed that he eventually became sick with bronchitis after so much inhaling and had to be hospitalized.](https://thefactbase.com/the-actors-on-the-wold-of-wall-street-snorted-crushed-b-vitamins-for-scenes-that-involved-cocaine-jonah-hill-claimed-that-he-eventually-became-sick-with-bronchitis-after-so-much-inhaling-and-had-to-be-hospitalized)
+- [Twitter, Wikipedia, and AOL IM all crashed the day Michael Jackson died.](https://thefactbase.com/twitter-wikipedia-and-aol-im-all-crashed-the-day-michael-jackson-died)
+- [Betty White's first TV show, Life with Elizabeth, was canceled after she continually invited Black tap dancer Arthur Duncan onto the show despite heavy criticism from viewers in the American South.](https://thefactbase.com/betty-white-s-first-tv-show-life-with-elizabeth-was-canceled-after-she-continually-invited-black-tap-dancer-arthur-duncan-onto-the-show-despite-heavy-criticism-from-viewers-in-the-american-south)
+- [Einstein couldn't speak fluently until after his ninth birthday. His parents thought he was mentally handicapped.](https://thefactbase.com/einstein-couldn-t-speak-fluently-until-after-his-ninth-birthday-his-parents-thought-he-was-mentally-handicapped)
+- [Oprah Winfrey, who is famously known for being unmarried and having no children, actually had a son when she was just 14 years old, but he died as an infant.](https://thefactbase.com/oprah-winfrey-who-is-famously-known-for-being-unmarried-and-having-no-children-actually-had-a-son-when-she-was-just-14-years-old-but-he-died-as-an-infant)
+- [Elvis was related to both President Abraham Lincoln and President Carter.](https://thefactbase.com/elvis-was-related-to-both-president-abraham-lincoln-and-president-carter)
+- [Stephen King is the living author with the highest number of books being adapted into films with 36.](https://thefactbase.com/stephen-king-is-the-living-author-with-the-highest-number-of-books-being-adapted-into-films-with-36)
+- [Michael Jackson attempted to buy "Marvel Comics" so he could play Spider-Man in a movie.](https://thefactbase.com/michael-jackson-attempted-to-buy-marvel-comics-so-he-could-play-spider-man-in-a-movie)
+- [Shakira was banned from her school's choir, and her classmates said she sounded like a goat](https://thefactbase.com/shakira-was-banned-from-her-school-s-choir-and-her-classmates-said-she-sounded-like-a-goat)
